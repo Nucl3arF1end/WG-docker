@@ -1,0 +1,7 @@
+TZ=Europe/Moscow
+SRV_URL=my.name
+SRV_PORT=51820
+PEERS=6
+ISUBNET=192.168.1.0
+AIPS=0.0.0.0/0
+RESTART=unless-stopped
