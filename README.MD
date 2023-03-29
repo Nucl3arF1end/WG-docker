@@ -1,6 +1,6 @@
 ## First startup
 
-1. Set enviroments
+1. Set environment
     cp env_example .env
     change variables in .env
 
